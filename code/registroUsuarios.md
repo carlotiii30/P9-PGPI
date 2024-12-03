@@ -3,3 +3,5 @@
 ## Modificación del registro
 
 ## Finalización de la implementación
+
+## Incidencia resuelta
