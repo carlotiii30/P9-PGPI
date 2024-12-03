@@ -4,4 +4,4 @@
 
 ## Finalización de la implementación
 
-## Incidencia resuelta
+## Incidencia en el registro resuelta
